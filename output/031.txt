@@ -1,0 +1,78 @@
+BOMBAS SUBMERSAS
+
+e
+- PAINEL DE COMANDO
+(BR altri CIMM | MONOFÁSICO 220V
+
+CIMM - MONOFÁSICO
+
+MODELO | cv | kw | TENSÃO
+220V
+220V
+220V
+o RR
+O
+
+DADOS TÉCNICOS
+
+01. Voltagem de Trabalho: AC 220V;
+
+02. Frequência: 60 Hz;
+
+03. Classificação da Saída de Energia: 0.37 - 2.2 kW;
+
+04. Proteção em Voltagem BAIXA a partir de: AC 176V;
+05. Proteção em Voltagem ALTA a partir de: AC 253V;
+06. Tempo Inicial de Proteção para voltagem ALTA/BAIXA: 5 segundos;
+07. Proteção para Rotor Travado: < 0.1 segundos;
+
+08. Proteção para Rotação a Seco: 10 segundos;
+
+09. Tempo de recuperação por trabalhar seco: 30 minutos;
+10. Grau de Proteção: IP22;
+
+11. Distância do sinal de transmissão: < 200 metros;
+
+12. Tempo de recuperação da sobrecarga: 30 minutos;
+
+13. Tempo de atuação em sobrecarga: 1-50 segundos.
+
+DESCRIÇÕES
+
+01. Pode ser usado para Bombas Submersas Monofásicas TABELA DE
+de 0.50CV até 3.0CV, nas quais podem ser realizados A
+
+a proteção do Controle de Nível e Pressão do Equipamento; EQUIVALÊNCIA
+02. Automático / Manual, cv | CAPACITOR
+03. Vários modos de operação;
+
+04. Proteção contra ALTA / BAIXA VOLTAGEM; 0.50 25 uf
+05. Proteção contra SOBRECARGA; 0.75 30 uf
+06. Proteção contra CURTO-CIRCUITO; 1.00 35 uí
+07. Proteção contra ROTAÇÃO A SECO com sensor livre; : U
+08. Painel de LCD demonstrando informações da Bomba; 1.50 45 uf
+09. Configurações customizadas. 2.00 50 uf
+Obs.: INSTALAR SOMENTE BOMBAS COM POTÊNCIA DE ACORDO 3.00 TO uf
+
+COM O CAPACITOR DO PAINEL.
+Consulte a Tabela de Equivalência ao lado.
+
+ATENÇÃO: Utilizar somente em bombas refrigeradas a óleo.
+
+CONFIGURAÇÕES
+
+Ed - CONFIGURAÇÃO PADRÃO para uso de Relê de Nível e Chave Bóia. LEGENDA:
+Ed - Configuração com instalação de Pressurizador.
+
+EB - Configuração com o dobro de suprimento de água.
+
+E8 - Configuração com Alarme em caso de transbordamento.
+
+ESPAÇO VAZIO
+
+Obs.: Somente faça as configurações com o Painel DESLIGADO e BRANCO
+
+após ligar, pressione e segure o botão “CONFIGURAR?” por 3 segundos.
+
+www.altri.com.br
+

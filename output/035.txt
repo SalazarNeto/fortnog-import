@@ -1,0 +1,73 @@
+s
+
+)
+- PAINEL DE COMANDO
+altri TRIFÁSICO
+
+TC - TRIFÁSICO COMPLETO
+
+220/380
+
+Composição: Armário de Aço, Contator, Relê Térmico,
+Chave 3P, Disjuntor, Falta Fase, Barra Borne Bóia,
+Amperímetro e Voltímetro.
+
+WE
+
+IMAGEM ILUSTRATIVA
+
+TCN - TRIFÁSICO COMPLETO
+
+TCN (+ RELE DE NÍVEL)
+
+AT400TCN 4.00 12-18 220/380
+
+Composição: Armário de Aço, Contator, Relê Térmico,
+ave 3P, Disjuntor, Falta Fase, Barra Borne Bóia,
+Amperímetro, Voltímetro + RELE DE NÍVEL.
+
+IMAGEM ILUSTRATIVA
+
+TSE TRIFÁSICO SIMPLES - Armário de Plástico
+
+TSE
+cv FA 380V | TENSÃO
+
+220/380
+[2,54 |
+[5.58 |
+
+MODELO
+ATO5OTSE
+ATO75TS
+AT100TS
+AT150TS
+AT200TS
+AT300TSE
+
+m
+
+0.
+
+“q
+
+220/380
+
+[2,54 [162,5]
+[254 |
+| 5,5-8 | 2,5-4 | 220/380
+| 5,5-8 | 220/380
+[rio [56]
+
+220/380
+
+E
+
+Composição: Armário de Plástico, Contator,
+Relê Térmico, Chave 3P, Disjuntor,
+
+m
+
+Falta Fase, Barra Borne Bóia.
+
+IMAGEM ILUSTRATIVA

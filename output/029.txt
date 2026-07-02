@@ -1,0 +1,81 @@
+CO
+ATS lãs (Baltri
+
+S O L Pa R ver —Para você vencer
+
+Seleção de Curva
+
+MODELO
+3ATS7 4/55-48/400 CI
+
+3ATST 4isS-421400
+
+Gatti rr
+
+3ATSO 4/80-721600
+
+E
+
+MODELO m:/h| 0 |06/12/18]24 36/42/48|54|60
+3ATST 6/60-72/750 CI |MCA | 60 | 59 | 58 | 55 [525] 49 |43,6]364]257]10,5| 10
+7
+
+MODELO m3/h| O 0, 12/18/24] 3 |35| 4
+3ATS9 4/80-72/600 CI |MCA | 80 | 70 | 63 | 53] 42 | 29 | 17 | 10
+MODELO m3/h| O 12]1,8|24] 3 |42] 4
+3ATS11 4/95-72/750 CI |MCA | 95 | 94 | 83 | 68 2 | 14 0
+MODELO m3/h| O 0,6/ 12/18/24] 3 |36 4
+3ATS14 4/123-110/1100 CI | MCA | 123 | 113 | 102] 86 | 70 | 52 | 29 | 10
+0 12/18] 24] 3 |36|42]48]52]5,8|6,6|7,2
+78 | TT | TO | TS | 74 | 73 | 72 |69 | 62| 56 | 42] 26
+0 12124 |36]48| 6 | 7,2 | 84 |10,8]12,2]13,0
+60 | 59 | 58] 57 | 54 | 49 | 46 | 41 | 28 | 17 10
+
+DESEMPENHO DA BOMBA É CALCULADO
+MEDIANTE O NIVEL DE INSOLAÇÃO.
+
+a
+=
+
+SATST Ai
+
+MODELO m3/h 8,0
+
+10
+
+3ATS10 8/78-110/1460 CI | MCA
+
+MODELO m3/h
+a hd = 4ATS5 13/60-110/1460 Cl] MCA
+
+CONSULTE A MÉDIA DE INSOLAÇÃO
+PARA SUA REGIÃO EM:
+TABELAS TÉCNICAS INTRODUÇÃO
+AO SISTEMA SOLAR.
+
+CONTROLADOR INTERNO
+DA BOMBA SOLAR
+
+Guia de Módulos Solar
+
+POTÊNCIA DA VOLTAGEM MINÍMA — VOLTAGEM MAX. BOMBA QUANTIDADE DE TIPO DE LIGAÇÃO
+
+MODELO VOLTAGEM (V) AMPERAGEM ;
+BOMBA START (VMP ) DESLIGADA ( VOC ) MODULO SOLAR INDICADA
+
+SATST EBD
+SATSO aa O
+SATST HDTATG0 O
+SATSU 47260
+3ATS10 8/78-110/1460 CI 1460W 110V 10A 110-150 <200 4X 570W
+
+Não utilizar módulos solar de tensão diferente, risco de sobretensão nos módulos.
+Não utilizar módulos solar de fabricantes diferente, com exceção que tenham os mesmos DATASHEET.
+Levar em consideração Placas com VOC até 50V.
+
+SÉRIE
+
+Ligação dos Módulos em Série
+
+www.altri.com.br
+

@@ -1,0 +1,28 @@
+Ve
+
+Os Motores Elétricos ALTRI foram projetados para fornecer o melhor rendimento
+com o mínimo de consumo de energia, compactos e com operação silenciosa,
+fabricados com o mais alto padrão de qualidade. Atendem as mais diversas aplicações.
+
+Motor de indução com rotor de gaiola;
+PLACA DE BORNES; Proteção: IP21 - ABNT NBR IEC 60529 / 60034-5;
+DUPLO CAPACITOR: Carcaça: 56 - norma dimensional NEMA MGI;
+
+ROTOR COM SISTEMA DE BLOQUEIO; | Potência: 1eva3cv-2e 4 polos;
+Q ) Isolação: classe B (130ºC);
+
+PROTEÇÃO TÉRMICA INTEGRADA. Tensão: 110-127/220-254V;
+
+MODELO POTÊNCIA
+
+Frequência: 60 Hz;
+MONOFÁSICO 2P - 60HZ
+
+110 /127V | 220 /254V
+700001 0.75 au 12.2 6.1 |3450|1.25 40ºC
+700002 1.12 15.8 8 3450 [1.15] F | 56 | Cont | NEMAB | Aberto
+700003 149/20 | 198 | 103 [3450/1115] F | 56 | Cont | NEMAB | Aberto]
+6
+
+ROTAÇÃO PADRÃO DE FÁBRICA: SENTIDO HORÁRIO.
+

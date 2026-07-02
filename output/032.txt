@@ -1,0 +1,82 @@
+BOMBAS SUBMERSAS
+
+nº PAINEL DE COMANDO
+(8 altri CIMT2 | TRIFÁSICO 220V
+
+CIMT2 - TRIFÁSICO
+
+Controle Inteligente Musttifuncionai
+
+MODELO TENSÃO
+
+ow |
+
+0.50
+220V
+220V
+220V
+CIMT2/400
+CIMT2/550 | 5.50 | 404 |
+
+DADOS TÉCNICOS
+
+01. Voltagem de Trabalho: AC 220V;
+
+02. Frequência: 60 Hz;
+
+03. Classificação da Saída de Energia: 0.37- 4.04 kW;
+
+04. Proteção em Voltagem BAIXA a partir de: AC 176V;
+05. Proteção em Voltagem ALTA a partir de: AC 253V;
+06. Tempo Inicial Proteção p/ voltagem ALTA/BAIXA: 5”;
+07. Proteção para Rotor Travado: < 0.1 segundos;
+
+08. Proteção para Rotação a Seco: 10 segundos;
+
+09. Tempo de recuperação por trabalhar seco: 30 minutos;
+10. Tempo inicial de proteção Falta-Fase: < 2 segundos;
+11. Grau de Proteção: IP22;
+
+12. Distância do sinal de transmissão: < 200 metros;
+
+13. Tempo de recuperação da sobrecarga: 30 minutos;
+
+14. Tempo de atuação em sobrecarga: 1-50 segundos.
+
+DESCRIÇÕES
+
+01. Pode ser usado para Bombas Submersas Trifásicas de
+0.50CV a 5.50CV, nas quais podem ser realizados
+
+a proteção do Controle de Nível e Pressão do Equipamento;
+02. Automático / Manual;
+
+03. Vários modos de operação;
+
+04. Proteção contra ALTA | BAIXA VOLTAGEM;
+
+05. Proteção contra SOBRECARGA;
+
+06. Proteção contra CURTO-CIRCUITO;
+
+07. Proteção contra FALTA-FASE;
+
+08. Proteção contra ROTAÇÃO A SECO com sensor livre;
+09. Painel de LCD demonstrando informações da Bomba;
+10. Configurações customizadas.
+
+CONFIGURAÇÕES
+
+= - CONFIGURAÇÃO PADRÃO para uso de Relê de Nível e Chave Bóia.  LESENDA:
+=. Configuração com instalação de Pressurizador.
+
+- Configuração com o dobro de suprimento de água.
+Eu Configuração com Alarme em caso de transbordamento.
+
+ESPAÇO VAZIO
+Obs.: Somente faça as configurações com o Painel DESLIGADO e BRANCO
+
+após ligar, pressione e segure o botão “CONFIGURAR” por 3 segundos.
+
+www.altri.com.br
+

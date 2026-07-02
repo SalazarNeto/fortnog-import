@@ -1,0 +1,78 @@
+(3 altri
+
+DADOS TÉCNICOS:
+
+1. Tensão nominal: 220V
+2. Corrente Máxima: 10A
+3. Potência Máxima: 1.50 CV ou 3.00 CV
+4. Pressão Máxima Permitida:
+1 mpa - 10 bar - 145 psi
+5. Temperatura Máxima do líquido: O - 60 “€
+6. Ajuste da faixa de Pressão: 0. 5 - 6 bar.
+
+DESCRIÇÕES:
+
+Interface interativa com dois modos de trabalho:
+
+Modo 1
+
+A pressão de partida pode ser ajustada e a
+
+pressão de parada não, ocorrendo a parada quando
+atingir o máximo de pressão na cabeça da bomba.
+
+Modo 2
+
+A pressão de partida e a pressão de parada
+podem ser ajustadas em qualquer ponto para
+realizar o controle preciso da pressão.
+
+Pressão Inicial
+(bar)
+
+A distância entre a posição mais
+alta da torneira e o controlador
+não mais do que (metros)
+
+1. CARACTERÍSTICAS
+
+Inicia e para a pressão de acordo com os dados detectados, o status do fluxo de água na
+tubulação e a pressão de água. Substitui completamente o sistema de controle de bomba
+tradicional composto de: tanque de pressão interruptor de pressão, dispositivo de
+proteção de escassez de água, válvula de retenção, etc.
+
+As peças elétricas são completamente isoladas com o cano e alta vedação da caixa de controle,
+que faz do controlador mais seguro do que sistemas de segurança tradicionais.
+
+O projeto integrado pode ajudá-lo a economizar tempo e material. Comparado com o controle de
+pressão elétrica tradicional, este produto tem as seguintes características notáveis:
+
+1. Tem uma nova tecnologia de sensor de pressão, tela LCD faz o controle para exibir a pressão
+em tempo real do tubo.
+
+2. É composto por duas modalidades de trabalho, o botão pode ser ajustado casualmente, que
+pode atender às necessidades de diferentes aplicações.
+
+3. Tem a função de proteção de pressão.
+
+4. Tem a função de proteção de sobrecarga.
+
+5. Tem a função de proteção em caso de impedir a bomba trabalhar com frequência.
+
+6. Tem a função de iniciar a bomba para evitar travamento da bomba causado por longo tempo
+sem usar.
+
+7. Tem a função de bomba iniciar automaticamente em caso de escassez de água.
+
+8. Faixa de ajuste começando a pressão é grande, a pressão diferencial é pequena e as
+solicitações de cabeça mínima são baixas.
+
+9. O controlador pode ser vertical ou horizontal na instalação da bomba.
+
+O valor vertical ou
+o mais baixo para a
+
+Valor da sugestão da
+pressão mais baixa para
+
+bomba correspondente | bomba correspondente

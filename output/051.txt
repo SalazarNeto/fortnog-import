@@ -1,0 +1,40 @@
+ts altri
+
+DADOS TÉCNICOS: CARACTERÍSTICAS DE CONSTRUÇÃO:
+
+1. Pressão inicial: 1.5 bar ou 2.2 bar - Entrada: Macho 1º
+
+2. Corrente nominal máxima: 10A - Saída: Macho 1º"
+
+3. Pressão máxima permitida: - Válvula anti-retorno especial para evitar sobretensão.
+1 mpa - 10 bar - 145 psi - Sistema de segurança, evitando a possibilidade da
+
+4. Tensão nominal: Bivolot (110V/220V) máquina a trabalhar sem água.
+
+5. Frequência: 50 /60 Hz - Medidor de pressão.
+
+6. Temperatura ambiente máxima: 40 ºC - Interruptor de arranque manual (REINICIAR).
+
+7. Temperatura máxima do líquido: 60 ºC - Tensão LED (ENERGIZADO).
+
+8. Grau de Proteção: IP65 - Bomba trabalhando LED (SISTEMA LIGADO).
+
+- Sistema de segurança LED (FALHA).
+
+DESCRIÇÕES: OPERAÇÃO:
+
+1. Para e começa automaticamente a bomba; O controlador eletrônico ordena o início automático e parada da
+
+2. Para a bomba no caso de falta de água; bomba de água ao abrir ou fechar qualquer torneira ou válvula do
+
+3. No caso da falta de energia, após o retorno sistema. O controlador pode manter um fluxo constante de água e
+o sistema liga automaticamente; de pressão no sistema, enquanto qualquer torneira no sistema
+
+4. Partida forçada. está aberta durante a operação da bomba.
+
+INSTALAÇÃO DO MANÔMETRO.
+
+O manômetro é fornecido com selo de vedação, dois parafusos de fixação e uma tampa de rosca.
+O manômetro pode ser montado em qualquer lado do controlador introduzindo o conector cilíndrico
+com selo de vedação no orifício no corpo do aparelho e corrigi-lo por meio de dois parafusos fornecidos.
+A torneira de rosca deve ser instalada na ventilação de calibre de pressão do lado oposto (sem selo de vedação ou Teflon).

@@ -1,0 +1,28 @@
+ESPECIFICAÇÕES TÉCNICAS
+
+Em conformidade com a norma NBR 13604
+nas seguintes dimensões abaixo:
+
+4" L 100 116 5,9 106 4 11,20
+4" S 100 117 7,0 101,6 4 14,00
+4% S 115 129 8,5 112,0 4 18,00
+4% R 115 129 9,5 109,0 4 22,00
+6" L 154 174 7,1 159,0 4 22,00
+6" S 154 174 9,5 153,0 4 29,00
+6" R 150 174 11,5 149,6 4 34,00
+6% S 165 179 9,7 159,6 4 30,00
+6% R 155 179 11,5 156 4 35,00
+VA S 165 189 10,5 167 4 35,00
+8" S 206 231 12 205 4 49,00
+EM R 201 231 15 199 4 59,00
+10" S 252 285 15 255 4 75,00
+10" R 244 285 18,5 248 4 95,00
+
+Dref. = Diâmetro de referência | DN = Diâmetro Nominal
+Dem = Diâmetro Externo Médio | e = Espessura de Parede
+Dim = Diâmetro Interno Mínimo dos Tubos | L = Comprimento
+
+Deb = Diâmetro Externo Bolsa | W = Abertura das Ranhuras
+
+www.altri.com.br
+

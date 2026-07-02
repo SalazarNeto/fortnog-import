@@ -1,0 +1,48 @@
+6 AT 4
+
+6AT4 BOMBEADOR
+SUBMERSO
+Diâmetro entrada (9)
+Código
+Diâmetro saída (9)
+
+CONDIÇÕES DE FUNCIONAMENTO:
+
+Temperatura Máxima de Trabalho < 35 ºC.
+Teor Máximo de Areia: 100 g/mº.
+Limite de pH 6a 9.
+
+BOMBEADOR:
+
+Rotor fabricado em Aço Inoxidável AISI304.
+6AT4 Corpo Externo: Aço Inoxidável AISI304.
+
+Eixo: Aço Inoxidável AISI304.
+
+Bocal Superior: Aço Inoxidável.
+
+Mancal Superior e Inferior.
+
+Corpo de Sucção: Aço Inoxidável.
+
+GARANTIA:
+12 Meses.
+
+Curva de Performance 60Hz - 3.450/min
+
+ALTURA MANOMÉTRICA (m)
+
+0 6 12 18 24 30 36 42
+FLUXO DE VAZÃO (m?h)
+
+Seleção de Curva - 60Hz
+
+MODELO
+kW | CV m3/h 12 | 18 |24 | 30 | 36 | 42
+
+6AT43003 | 4 [55 | 15
+GATA 30-04 75 MCA 32 | 20
+so [78 [72 [68 [63 [55 [41 [25
+
+www.altri.com.br
+

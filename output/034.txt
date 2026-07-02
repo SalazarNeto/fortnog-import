@@ -1,0 +1,94 @@
+BOMBAS SUBMERSAS
+
+(O)
+A PAINEL DE COMANDO
+(BR altri MONOFÁSICO
+
+MCE - MONOFÁSICO
+COMPLETO ECONÔMICO
+
+C2FBC - CONTROL 2 FIOS
+C2FBC
+
+MODELO cv FA TENSÃO
+
+[aresmcarec [050[ 55-6 [ rarazo |
+EEN DEM
+[arismceeso [150] o-15 [raro
+[arzooczrBc [200] 12-18 |  azrizzo |
+[arsmarec [300 [47-25 | rarieso |
+
+Composição: Armário de Aço, Contator, Disjuntor,
+
+| mopeto [cv] ra | tensão |
+
+ATO50MCE
+ATO75MCE
+AT100MCE
+AT150MCE
+AT200MCE
+
+Barra Borne Bóia, Chave Seletora (M-O-A),
+
+Rele Térmico, Amperímetro e Voltímetro. Composição: Armário de Aço, Contator,
+
+Capacitor Permanente, Disjuntor, Barra Borne Bóia,
+Rele Térmico, Chave 3P, Amperímetro e Voltímetro.
+
+IMAGEM ILUSTRATIVA
+
+MC - MONOFÁSICO COMPLETO
+
+| mopeLo [cv] Fa | tensão |
+| arssomc | 5.50 | HEM
+HS
+
+Composição: Armário de Aço, Chave 3P, Capacitor de Partida, Composição: Armário de Aço, Chave 3P, Capacitor de Partida,
+Capacitor Permanente, Disjuntor, Contator de Trabalho, Capacitor Permanente, Disjuntor, Contator de Trabalho,
+Rele Térmico, Voltímetro, Contator Permanente, Rele Térmico, Voltímetro, Contator Permanente,
+
+Relê de Tempo e Amperímetro. Relê de Tempo, Amperímetro + RELE DE NÍVEL.
+
+IMAGEM ILUSTRATIVA
+
+MSE2 MONOFÁSICO SIMPLES ECONÔMICO - Armário de Plástico
+
+[oveio [ou] Fa | rensão |
+[ATOsOMSEZN[0.50/55-8 | 20
+ATOrSMSEZN[0:75| T-i0 | 200
+[ATIOOMSEZN[100[ 613 | 200
+[ATISOMSEZN[150[ 013 [220
+(ATZOMSEZN[200[ 12-18 | 20
+[ATSOOMSEZN[2400[ 17-25 [220
+E E E
+
+Composição: Armário de Plástico, Contator,
+Disjuntor, Rele Térmico, Capacitor Permanente,
+Barra Borne Bóia e Chave 3P + RELE DE NÍVEL
+
+CBA - CONTROL BOX
+
+CBA - CONTROL BOX CBAZF - CONTROL BOX
+TENSÃO TENSÃO
+
+ATO33CBA | 0.33 | 127/220 | ATO33CBAZF | 0.33 | 127/220
+ATOSOCBA | 0.50 | 4127/220 | ATOSOCBAZF | 0.50 | 4127/220
+ATO75CBA 127/220 127/220
+ATIDOCBA | 1.00 | 127220 | AT100CBAZE | 1.00 | | 127/220
+ATISOCBA | 1.50 | 127/220 | ATI50CBAZE | 1.50 | 127/220
+
+| 200 | | 200 |
+
+[300 | [| 300 |
+
+AT200CBA AT200CBA2F
+
+AT300CBA
+
+AT300CBA2F
+
+Composição: Caixa Termelétrica, Barra Borne, Composição: Caixa Termelétrica, Barra Borne,
+Plug 2P + T, Capacitor Permanente, Protetor Térmico, Plug 2P + T, Protetor Térmico,
+Botão de Acionamento e Saída Bóia. Botão de Acionamento e Saída Bóia.
+
+IMAGEM ILUSTRATIVA

@@ -1,0 +1,71 @@
+CO
+ATS lãs (Baltri
+
+S O L Pa R ver —Para você vencer
+
+Seleção de Curva
+
+MODELO
+3ATS7 4/55-48/400
+
+3ATST 4isS-421400 3ATSO 4/80-721600
+
++
+
+MODELO m3/h
+3ATS9 4/80-72/600 MCA
+
+0,7/12/18/24|] 3 ]35
+
+E
+so |7o/es|53|]42 |29)17[10) | | [+
+MODELO m:/h) 0 [12/1824] 3 [42] 4
+3ATS11 4/95-72/750 MCA | 95 94 83 68 | 52 14 10
+MODELO m3/h| 0 |06[12[18/24] 3 |36| 4
+3ATS14 4/123-110/1100 |MCA |123 | 113 | 102 | 86 | 70 52 29 10
+MODELO m:/h| 0 [06/12/18/24| 3 |36]42]48|54|60
+60 | 5958 | 55 [525] 49 |436]36,4| 25,7]10,5
+
+3ATS7 6/60-72/750 MCA
+
+Mm MIN Es
+
+MODELO
+3ATS10 8/78-110/1460
+
+MODELO
+4ATS5 13/60-110/1460
+
+Ss A DESEMPENHO DA BOMBA É CALCULADO
+2 (= MEDIANTE O NÍVEL DE INSOLAÇÃO.
+| CONSULTE A MÉDIA DE INSOLAÇÃO
+
+PARA SUA REGIÃO EM: |.
+TABELAS TÉCNICAS INTRODUÇÃO
+AO SISTEMA SOLAR.
+
+CONTROLADOR
+DA BOMBA SOLAR
+
+Guia de Módulos Solar
+
+POTÊNCIA DA VOLTAGEM MINÍMA — VOLTAGEM MAX. BOMBA QUANTIDADE DE TIPO DE LIGAÇÃO
+
+MODELO VOLTAGEM (V) AMPERAGEM ;
+BOMBA START (VMP ) DESLIGADA ( VOC ) MODULO SOLAR INDICADA
+
+O
+SATSS asa
+SAT GDA
+3ATS10 8/78-110/1460 1460W 110V 10A 110-150 <200 4X 570W
+
+Não utilizar módulos solar de tensão diferente, risco de sobretensão nos módulos.
+Não utilizar módulos solar de fabricantes diferente, com exceção que tenham os mesmos DATASHEET.
+Levar em consideração Placas com VOC até 50V.
+
+SÉRIE
+
+Ligação dos Módulos em Série
+
+www.altri.com.br
+

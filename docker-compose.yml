@@ -1,0 +1,10 @@
+services:
+
+  fortnog:
+
+    build: .
+
+    container_name: fortnog-importador
+
+    volumes:
+      - .:/app
