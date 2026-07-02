@@ -1,10 +1,17 @@
+version: "3.9"
+
 services:
 
-  fortnog:
+  product-hub:
 
     build: .
 
-    container_name: fortnog-importador
+    container_name: fortnog-product-hub
+
+    ports:
+
+      - "8090:8090"
 
     volumes:
+
       - .:/app
